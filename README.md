@@ -26,7 +26,7 @@ Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ...
 
 Call it whatever you like! tgcf can fulfill your custom needs.
 
-The *key features* are:
+The *Key features* are:
 
 1. Forward messages as "forwarded" or
 send a copy of the messages from source to destination chats.
