@@ -20,4 +20,4 @@ class BotMessages:
 
     # pylint: disable=too-few-public-methods
     start = "Hi! I am alive"
-        bot_help = "©Lightning SMM"
+    bot_help = "©Lightning SMM"
